@@ -1,7 +1,7 @@
 
 This game-engine is licensed under MIT liscense, 
 however, it uses 3 different libraries (also MIT liscence):
--- the liscences are 'baked' into any generated executable generated,
+-- the licenses are 'baked' into any generated executable generated,
 	via running via terminal with param '-duktape_license'
 	(not legal advice, but hopefully will allow shipping single file
 		executables with no additional files)
