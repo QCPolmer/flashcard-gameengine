@@ -29,7 +29,7 @@ AI-use: some algorithms/low level stuff was made by asking
 --------------------------------------------
 -- Don't, it's probably not worth it
 -- Find a better engine that is better documented, use that instead
--- Install 'TCC' (tiny c compiler)
+-- Install 'TCC' (tiny c compiler, WITH the libraries for it)
 -- Go to the z_example files 
 -- click 'm.cmd' to test a file, 'm_compile.cmd' to generate a executable
 	(run on both windows/linux... same executables) 
