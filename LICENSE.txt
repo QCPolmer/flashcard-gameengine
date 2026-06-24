@@ -5,6 +5,10 @@ however, it uses a few different libraries (also MIT/BSD/apache liscence):
 	via running via terminal with param '-duktape_license'
 	(not legal advice, but hopefully will allow shipping single file
 		executables with no additional files)
+-- UglifyJs and Tensorflow are also included 
+   (these are hacked to run on duktape, not perfect, far from full power)
+   these are included in the 'utilities' folder, and typically not 
+   baked into the resulting executables by default. 
 
 ///////////////////////////////////////
 /////////////////////////////////////////////
